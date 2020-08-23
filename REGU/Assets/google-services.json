@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424077888710",
+    "firebase_url": "https://regu-2c3df.firebaseio.com",
+    "project_id": "regu-2c3df",
+    "storage_bucket": "regu-2c3df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424077888710:android:986ec316ca2457f672dbc7",
+        "android_client_info": {
+          "package_name": "com.Regutech.REGU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424077888710-mck8j1f98e8ltjv845f30vcifdnqe100.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Regutech.REGU",
+            "certificate_hash": "82a919f5f1303a091228b511e66eda590d1ed609"
+          }
+        },
+        {
+          "client_id": "424077888710-psden36pg00g8if04kif5c5da1clh6ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTkdW1v-4NyvfS_S2UBD59CmeMkV2_m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424077888710-psden36pg00g8if04kif5c5da1clh6ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
